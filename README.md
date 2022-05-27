@@ -1,2 +1,2 @@
-# Login-Din-mico
-Tela de login dinâmica com HTML-CSS.
+# Login-Dinamico
+Tela de login dinâmica com HTML-CSS-JS.
